@@ -8,3 +8,5 @@
 * Express.js
 * Node.js
 * React.js
+
+![Exercise Tracker Demo](Demo/exercisetrackerdemo.gif)
