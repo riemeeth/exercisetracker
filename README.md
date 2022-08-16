@@ -2,8 +2,8 @@
 
 ## A CRUD app used to track exercises 
 ### Built with:
-* HTML
-* JavaScript
+* HTML/CSS
+* Javascript
 * MongoDB
 * Express.js
 * Node.js
