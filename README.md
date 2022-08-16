@@ -9,4 +9,4 @@
 * Node.js
 * React.js
 
-![Exercise Tracker Demo](Demo/exercisetrackerdemo.gif)
+![Exercise Tracker Demo](gif/exercisetrackerdemo.gif)
