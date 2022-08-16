@@ -1,0 +1,87 @@
+body {
+  font-family: monospace;
+  background-color: #C9E4CA;
+  color: #364958;
+  margin: auto;
+  padding: 0%;
+  
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: inline;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #364958;
+}
+
+.App-link {
+  color: #364958;
+  padding:0.4%;
+  border-style: solid;
+  border: 3px;
+  font-family: monospace;
+}
+
+table {
+  margin: auto
+  
+}
+td, th {
+  border: 3px solid #364958;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #87BBA2;}
+
+tr:hover {background-color: #55828B;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #7b9e87;
+  color: #364958;
+  font-family: monospace;
+}
+
+h2 {
+  font-size: 40px;
+  border: 3px;
+  border-style: solid;
+  font-family: monospace;
+  background-color: #7b9e87;
+}
+
+h1 {
+  font-size: 70px;
+  font-family: monospace;
+}
+
+input {
+  font-family: monospace;
+  font-size: 20px;
+  border-style: solid;
+  border: 3px;
+  border-color:#364958
+}
+
+select {
+  font-size: 20px;
+}
+
+button {
+  text-align:right;
+  margin-left: 438%;
+  font-size: 30px;
+  margin-top: 10%;
+  font-family: monospace;
+  background-color: #7b9e87;
+  font-weight: 300;
+}
